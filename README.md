@@ -1,0 +1,1 @@
+# shear-Force-and-Bending-Moment-diagrams-of-a-simply-supported-beam
